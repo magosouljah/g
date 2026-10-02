@@ -5,30 +5,49 @@ Sistema persistente para programar, registrar y optimizar entrenamiento, nutrici
 ## Estructura
 
 - `knowledge/` = conocimiento y reglas que usamos para tomar decisiones.
-- `program/` = programa ACTUAL que se debe ejecutar.
-- `log/` = historial de lo que REALMENTE ocurrió. Es acumulativo.
+- `program/` = definición y reglas del programa actual. No contiene plantillas duplicadas de Push/Pull/Legs.
+- `copy-paste/` = única versión operativa de Push, Pull, Legs y Rest que el usuario rellena y devuelve al chat.
+- `log/` = historial estructurado de lo que realmente ocurrió. Es acumulativo.
 - `analysis/` = conclusiones y decisiones derivadas de tendencias en los datos.
 
-## Fuente de verdad y sincronización
+## Fuente de verdad
 
-Cuando cambie una rutina, el cambio NO se considera completo hasta actualizar en el mismo cambio:
-1. El/los archivos afectados en `program/`.
-2. `program/current-program.md` si cambia estructura, frecuencia o versión.
-3. `analysis/decisions.md` con fecha, cambio, evidencia/razón e hipótesis.
-4. La `program_version` usada por nuevos registros de entrenamiento.
+Las plantillas operativas son exclusivamente:
 
-Los datos históricos de `log/` nunca se reescriben para hacerlos coincidir con un programa nuevo. Cada set conserva la versión de programa bajo la que fue realizado.
+- `copy-paste/push.md`
+- `copy-paste/pull.md`
+- `copy-paste/legs.md`
+- `copy-paste/rest.md`
 
-Si cambia el esquema de un CSV, se conserva el mismo archivo y se añade la columna necesaria. Los registros históricos quedan vacíos cuando el dato no existía; nunca se inventan retrospectivamente.
+No deben existir copias equivalentes en `program/`.
 
-## Flujo
+`log/daily.csv` conserva los datos de cada día. `log/workouts.csv` conserva cada serie realizada. Los logs históricos no se sobrescriben para adaptarlos a cambios posteriores.
 
-1. Abrir/copiar `program/push.md`, `pull.md` o `legs.md`.
-2. Rellenar la tabla durante/después del entrenamiento y enviarla al chat junto con los datos diarios.
-3. Validar sin inventar datos faltantes.
-4. Añadir el día a `log/daily.csv` y cada serie a `log/workouts.csv`.
-5. Analizar tendencias; no cambiar el programa por una sola sesión mala salvo causa clara.
-6. Cuando la evidencia justifique un cambio, actualizar coordinadamente programa + versión + decisión.
+## Protocolo obligatorio para cualquier cambio
+
+Un cambio no se considera terminado por el hecho de que una escritura haya tenido éxito.
+
+1. Leer el estado actual de todos los archivos afectados antes de modificarlo.
+2. Determinar todos los archivos que deben mantenerse sincronizados.
+3. Aplicar el cambio.
+4. Si cambia una rutina, actualizar su archivo correspondiente en `copy-paste/`, la definición/versión del programa y `analysis/decisions.md` cuando corresponda.
+5. Mantener `program_version` correcta para los nuevos registros sin alterar versiones de registros históricos.
+6. Volver a leer/verificar el estado final de los archivos afectados.
+7. Si una operación falla o queda un estado parcial, no declarar el trabajo terminado. Reintentar cuando sea apropiado y verificar nuevamente.
+8. Si una limitación técnica impide completar el cambio, informar exactamente qué quedó pendiente.
+
+Nunca deben quedar dos fuentes contradictorias de la rutina actual.
+
+Si cambia el esquema de un CSV, se conserva el mismo archivo y se añade la columna necesaria. Los registros anteriores quedan vacíos para datos que todavía no se registraban; nunca se inventan retrospectivamente.
+
+## Flujo diario
+
+1. Día de entrenamiento: copiar `copy-paste/push.md`, `pull.md` o `legs.md`. Día de descanso: copiar `copy-paste/rest.md`.
+2. Rellenar el Markdown y enviarlo al chat.
+3. Validar los datos sin inventar valores faltantes.
+4. Añadir los datos diarios a `log/daily.csv` y, cuando haya entrenamiento, cada serie a `log/workouts.csv`.
+5. Analizar tendencias sin modificar impulsivamente el programa por una sola sesión mala.
+6. Cambiar el programa únicamente cuando los datos o una razón clara lo justifiquen y aplicar el protocolo de sincronización completo.
 
 ## Escala subjetiva 0–3
 
@@ -37,7 +56,7 @@ Si cambia el esquema de un CSV, se conserva el mismo archivo y se añade la colu
 - `2` = normal / bien
 - `3` = muy bueno
 
-Se usa inicialmente para calidad del sueño, energía y preparación física. Horas de sueño se registran por separado.
+Se usa inicialmente para calidad del sueño, energía y estado físico. Las horas de sueño se registran por separado.
 
 ## Principio
 
