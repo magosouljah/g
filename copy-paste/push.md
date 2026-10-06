@@ -29,3 +29,5 @@ Notas del día:
 | Rope Triceps Pushdown | 1 | | | | | |
 | Rope Triceps Pushdown | 2 | | | | | |
 | Rope Triceps Pushdown | 3 | | | | | |
+| Abs Crunch | 1 | | | | | |
+| Abs Crunch | 2 | | | | | |
