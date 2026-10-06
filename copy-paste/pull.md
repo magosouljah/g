@@ -1,4 +1,4 @@
-# PULL
+# PULL — PPL-003
 
 Fecha: 
 Peso corporal (kg): 
@@ -12,24 +12,26 @@ Agujetas:
 Molestias/dolor: 
 Notas del día: 
 
-| Ejercicio | Set | Carga (kg) | Reps | RIR | Descanso | Notas |
-|---|---:|---:|---:|---:|---|---|
-| Pull-up / Weighted Pull-up | 1 | | | | | |
-| Pull-up / Weighted Pull-up | 2 | | | | | |
-| Pull-up / Weighted Pull-up | 3 | | | | | |
-| Seated Cable Row | 1 | | | | | |
-| Seated Cable Row | 2 | | | | | |
-| Seated Cable Row | 3 | | | | | |
-| Neutral-Grip Lat Pulldown | 1 | | | | | |
-| Neutral-Grip Lat Pulldown | 2 | | | | | |
-| Neutral-Grip Lat Pulldown | 3 | | | | | |
-| Straight-Arm Pulldown | 1 | | | | | |
-| Straight-Arm Pulldown | 2 | | | | | |
-| Cable Curl (low pulley) | 1 | | | | | |
-| Cable Curl (low pulley) | 2 | | | | | |
-| Cable Curl (low pulley) | 3 | | | | | |
-| Dumbbell Hammer Curl | 1 | | | | | |
-| Dumbbell Hammer Curl | 2 | | | | | |
-| Rear-Deltoid Pec Deck | 1 | | | | | |
-| Rear-Deltoid Pec Deck | 2 | | | | | |
-| Rear-Deltoid Pec Deck | 3 | | | | | |
+| Ejercicio | Set | Objetivo reps | Objetivo RIR | Carga (kg) | Reps | RIR | Descanso | Notas |
+|---|---:|---:|---:|---:|---:|---:|---|---|
+| Preacher Curl | 1 | 8–12 | 0–1 | | | | 2 min | |
+| Preacher Curl | 2 | 8–12 | 0–1 | | | | 2 min | |
+| Preacher Curl | 3 | 8–12 | 0–1 | | | | 2 min | |
+| Incline Dumbbell Curl | 1 | 8–15 | 0–1 | | | | 2 min | |
+| Incline Dumbbell Curl | 2 | 8–15 | 0–1 | | | | 2 min | |
+| Incline Dumbbell Curl | 3 | 8–15 | 0–1 | | | | 2 min | |
+| Lateral Raise (cable o mancuerna) | 1 | 10–20 | 0–1 | | | | 2 min | |
+| Lateral Raise (cable o mancuerna) | 2 | 10–20 | 0–1 | | | | 2 min | |
+| Lateral Raise (cable o mancuerna) | 3 | 10–20 | 0–1 | | | | 2 min | |
+| Rear-Deltoid Pec Deck | 1 | 10–20 | 0–1 | | | | 2 min | |
+| Rear-Deltoid Pec Deck | 2 | 10–20 | 0–1 | | | | 2 min | |
+| Shrug | 1 | 8–15 | 0–1 | | | | 2–3 min | |
+| Shrug | 2 | 8–15 | 0–1 | | | | 2–3 min | |
+| Shrug | 3 | 8–15 | 0–1 | | | | 2–3 min | |
+| Shrug | 4 | 8–15 | 0–1 | | | | 2–3 min | |
+| Chest-Supported Row | 1 | 6–12 | 1 | | | | 3 min | |
+| Chest-Supported Row | 2 | 6–12 | 1 | | | | 3 min | |
+| Chest-Supported Row | 3 | 6–12 | 1 | | | | 3 min | |
+| Neutral-Grip Lat Pulldown | 1 | 8–12 | 1 | | | | 3 min | |
+| Neutral-Grip Lat Pulldown | 2 | 8–12 | 1 | | | | 3 min | |
+| Neutral-Grip Lat Pulldown | 3 | 8–12 | 1 | | | | 3 min | |
