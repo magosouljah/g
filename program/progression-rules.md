@@ -1,4 +1,4 @@
-# Progression Rules — PPL-001
+# Progression Rules — PPL-002
 
 ## Default: double progression
 For each exercise, keep the prescribed load while accumulating reps inside its target range with the prescribed RIR and repeatable technique.
