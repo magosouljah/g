@@ -1,24 +1,40 @@
-# Current Program
+# Programa actual
 
-**Version:** PPL-002  
-**Status:** active  
-**Structure:** Push → Pull → Legs → recovery/rest as required → repeat
+**Versión:** PPL-002
 
-The cycle is not tied to Monday–Sunday. Recovery and performance data may justify changing spacing or structure later.
+Este archivo es la fuente de verdad de la rutina actual.
 
-## Priorities
-1. Deltoid width / shoulders
-2. Upper chest and chest
-3. Back and lats / V-taper
-4. Arms
-5. Proportional legs, with particular attention to calves
+**Ciclo:** Push → Pull → Legs → descanso cuando haga falta → repetir.
 
-## Current sessions
-- [Push](../copy-paste/push.md)
-- [Pull](../copy-paste/pull.md)
-- [Legs](../copy-paste/legs.md)
+## Push
 
-PPL-002 formalizes direct abdominal work at the end of Push. No broader routine redesign is implied by this version change.
+| Ejercicio | Series |
+|---|---:|
+| Incline Barbell Bench Press | 3 |
+| Flat Dumbbell Press | 3 |
+| Pec Deck | 2 |
+| Dumbbell Lateral Raise | 4 |
+| Rope Triceps Pushdown | 3 |
+| Abs Crunch | 2 |
 
-## Version rule
-Any material change to exercise selection, set allocation, rep targets, RIR targets, exercise order, or cycle structure creates a new program version (`PPL-003`, etc.). The current Markdown files are updated to the new prescription; historical workout rows keep their original `program_version`.
+## Pull
+
+| Ejercicio | Series |
+|---|---:|
+| Pull-up / Weighted Pull-up | 3 |
+| Seated Cable Row | 3 |
+| Neutral-Grip Lat Pulldown | 3 |
+| Straight-Arm Pulldown | 2 |
+| Cable Curl (low pulley) | 3 |
+| Dumbbell Hammer Curl | 2 |
+| Rear-Deltoid Pec Deck | 3 |
+
+## Legs
+
+| Ejercicio | Series |
+|---|---:|
+| Hack-Squat-Like / Perfect Squat Machine | 3 |
+| Lying Leg Curl | 3 |
+| Pendulum / Leg Press Machine | 2 |
+| Leg Extension | 2 |
+| Standing Calf Raise | 4 |
