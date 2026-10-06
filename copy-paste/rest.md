@@ -1,4 +1,6 @@
-# REST — PPL-003
+# REST — PPL-004
+
+Domingo = descanso fijo.
 
 Fecha: 
 Peso corporal (kg): 
