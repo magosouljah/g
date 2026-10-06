@@ -44,7 +44,7 @@
 |---|---:|---:|---:|---:|
 | Hip Thrust | 3 | 6–10 | 1 | 3 min |
 | Romanian Deadlift | 2 | 6–10 | 1 | 3 min |
-| Bulgarian Split Squat — glute bias | 2 por pierna | 8–12 | 1 | 3 min |
+| Pendulum / Leg Press — glute bias | 2 | 8–12 | 1 | 3 min |
 | Standing Calf Raise | 4 | 8–15 | 0–1 | 2 min |
 | Hack Squat / Perfect Squat Machine | 2 | 6–12 | 1 | 3 min |
 | Lying Leg Curl | 2 | 8–15 | 0–1 | 2 min |
