@@ -1,4 +1,4 @@
-# PUSH
+# PUSH — PPL-003
 
 Fecha: 
 Peso corporal (kg): 
@@ -12,22 +12,28 @@ Agujetas:
 Molestias/dolor: 
 Notas del día: 
 
-| Ejercicio | Set | Carga (kg) | Reps | RIR | Descanso | Notas |
-|---|---:|---:|---:|---:|---|---|
-| Incline Barbell Bench Press | 1 | | | | | |
-| Incline Barbell Bench Press | 2 | | | | | |
-| Incline Barbell Bench Press | 3 | | | | | |
-| Flat Dumbbell Press | 1 | | | | | |
-| Flat Dumbbell Press | 2 | | | | | |
-| Flat Dumbbell Press | 3 | | | | | |
-| Pec Deck | 1 | | | | | |
-| Pec Deck | 2 | | | | | |
-| Dumbbell Lateral Raise | 1 | | | | | |
-| Dumbbell Lateral Raise | 2 | | | | | |
-| Dumbbell Lateral Raise | 3 | | | | | |
-| Dumbbell Lateral Raise | 4 | | | | | |
-| Rope Triceps Pushdown | 1 | | | | | |
-| Rope Triceps Pushdown | 2 | | | | | |
-| Rope Triceps Pushdown | 3 | | | | | |
-| Abs Crunch | 1 | | | | | |
-| Abs Crunch | 2 | | | | | |
+| Ejercicio | Set | Objetivo reps | Objetivo RIR | Carga (kg) | Reps | RIR | Descanso | Notas |
+|---|---:|---:|---:|---:|---:|---:|---|---|
+| Lateral Raise (cable o mancuerna) | 1 | 10–20 | 0–1 | | | | 2 min | |
+| Lateral Raise (cable o mancuerna) | 2 | 10–20 | 0–1 | | | | 2 min | |
+| Lateral Raise (cable o mancuerna) | 3 | 10–20 | 0–1 | | | | 2 min | |
+| Lateral Raise (cable o mancuerna) | 4 | 10–20 | 0–1 | | | | 2 min | |
+| Incline Barbell / Smith Bench Press | 1 | 6–10 | 1 | | | | 3 min | |
+| Incline Barbell / Smith Bench Press | 2 | 6–10 | 1 | | | | 3 min | |
+| Incline Barbell / Smith Bench Press | 3 | 6–10 | 1 | | | | 3 min | |
+| Pec Deck | 1 | 10–15 | 0–1 | | | | 2 min | |
+| Pec Deck | 2 | 10–15 | 0–1 | | | | 2 min | |
+| Pec Deck | 3 | 10–15 | 0–1 | | | | 2 min | |
+| Overhead Cable Triceps Extension | 1 | 8–15 | 0–1 | | | | 2 min | |
+| Overhead Cable Triceps Extension | 2 | 8–15 | 0–1 | | | | 2 min | |
+| Overhead Cable Triceps Extension | 3 | 8–15 | 0–1 | | | | 2 min | |
+| Overhead Cable Triceps Extension | 4 | 8–15 | 0–1 | | | | 2 min | |
+| Rope Triceps Pushdown | 1 | 10–15 | 0–1 | | | | 2 min | |
+| Rope Triceps Pushdown | 2 | 10–15 | 0–1 | | | | 2 min | |
+| Cable Crunch | 1 | 8–15 | 0–1 | | | | 2 min | |
+| Cable Crunch | 2 | 8–15 | 0–1 | | | | 2 min | |
+| Cable Crunch | 3 | 8–15 | 0–1 | | | | 2 min | |
+| Cable Woodchop — izquierda | 1 | 10–15 | 1 | | | | 2 min | |
+| Cable Woodchop — izquierda | 2 | 10–15 | 1 | | | | 2 min | |
+| Cable Woodchop — derecha | 1 | 10–15 | 1 | | | | 2 min | |
+| Cable Woodchop — derecha | 2 | 10–15 | 1 | | | | 2 min | |
