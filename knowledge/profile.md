@@ -9,11 +9,13 @@
 ## Prioridades musculares
 
 1. Hombros.
-2. Abdomen.
-3. Espalda / dorsales.
-4. Pecho.
-5. Tríceps.
-6. Bíceps.
+2. Abdomen / oblicuos.
+3. Bíceps.
+4. Tríceps.
+5. Pecho.
+6. Glúteos.
 7. Trapecio superior.
 8. Pantorrillas.
-9. Piernas.
+9. Espalda.
+10. Dorsales.
+11. Piernas.
