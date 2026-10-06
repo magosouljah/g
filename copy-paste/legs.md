@@ -1,4 +1,4 @@
-# LEGS
+# LEGS — PPL-003
 
 Fecha: 
 Peso corporal (kg): 
@@ -12,19 +12,23 @@ Agujetas:
 Molestias/dolor: 
 Notas del día: 
 
-| Ejercicio | Set | Carga (kg) | Reps | RIR | Descanso | Notas |
-|---|---:|---:|---:|---:|---|---|
-| Hack-Squat-Like / Perfect Squat Machine | 1 | | | | | |
-| Hack-Squat-Like / Perfect Squat Machine | 2 | | | | | |
-| Hack-Squat-Like / Perfect Squat Machine | 3 | | | | | |
-| Lying Leg Curl | 1 | | | | | |
-| Lying Leg Curl | 2 | | | | | |
-| Lying Leg Curl | 3 | | | | | |
-| Pendulum / Leg Press Machine | 1 | | | | | |
-| Pendulum / Leg Press Machine | 2 | | | | | |
-| Leg Extension | 1 | | | | | |
-| Leg Extension | 2 | | | | | |
-| Standing Calf Raise | 1 | | | | | |
-| Standing Calf Raise | 2 | | | | | |
-| Standing Calf Raise | 3 | | | | | |
-| Standing Calf Raise | 4 | | | | | |
+| Ejercicio | Set | Objetivo reps | Objetivo RIR | Carga (kg) | Reps | RIR | Descanso | Notas |
+|---|---:|---:|---:|---:|---:|---:|---|---|
+| Hip Thrust | 1 | 6–10 | 1 | | | | 3 min | |
+| Hip Thrust | 2 | 6–10 | 1 | | | | 3 min | |
+| Hip Thrust | 3 | 6–10 | 1 | | | | 3 min | |
+| Romanian Deadlift | 1 | 6–10 | 1 | | | | 3 min | |
+| Romanian Deadlift | 2 | 6–10 | 1 | | | | 3 min | |
+| Pendulum / Leg Press — glute bias | 1 | 8–12 | 1 | | | | 3 min | |
+| Pendulum / Leg Press — glute bias | 2 | 8–12 | 1 | | | | 3 min | |
+| Standing Calf Raise | 1 | 8–15 | 0–1 | | | | 2 min | |
+| Standing Calf Raise | 2 | 8–15 | 0–1 | | | | 2 min | |
+| Standing Calf Raise | 3 | 8–15 | 0–1 | | | | 2 min | |
+| Standing Calf Raise | 4 | 8–15 | 0–1 | | | | 2 min | |
+| Hack Squat / Perfect Squat Machine | 1 | 6–12 | 1 | | | | 3 min | |
+| Hack Squat / Perfect Squat Machine | 2 | 6–12 | 1 | | | | 3 min | |
+| Lying Leg Curl | 1 | 8–15 | 0–1 | | | | 2 min | |
+| Lying Leg Curl | 2 | 8–15 | 0–1 | | | | 2 min | |
+| Hanging Leg Raise | 1 | 8–15 | 0–1 | | | | 2 min | |
+| Hanging Leg Raise | 2 | 8–15 | 0–1 | | | | 2 min | |
+| Hanging Leg Raise | 3 | 8–15 | 0–1 | | | | 2 min | |
