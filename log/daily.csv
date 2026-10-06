@@ -1,4 +1,4 @@
 date,bodyweight_kg,calories_kcal,protein_g,sleep_hours,sleep_quality_0_3,energy_0_3,physical_readiness_0_3,day_type,session,program_version,soreness,discomfort_or_pain,notes
-2026-10-03,,5469.19,145.17,,,,,rest,,,0,,Datos de comida reconstruidos; entradas registradas a las 00:xx del 04/10 tratadas como comida del sábado.
-2026-10-04,,1946.54,63.41,,,,,rest,,,0,,Datos de comida reconstruidos; solo entradas registradas a las 23:xx del 04/10 asignadas al domingo.
-2026-10-05,,3688.37,155.33,9,1,2,3,training,Push,PPL-001,0,,Primer entrenamiento de la rutina. RIR registrados como estimaciones; no estoy seguro de su precisión.
+2026-10-03,70,5469.19,145.17,,,,,rest,,,0,,Datos de comida reconstruidos; entradas registradas a las 00:xx del 04/10 tratadas como comida del sábado; peso corporal ~70 kg estimado por el usuario y no medido con báscula fiable.
+2026-10-04,70,1946.54,63.41,,,,,rest,,,0,,Datos de comida reconstruidos; solo entradas registradas a las 23:xx del 04/10 asignadas al domingo; peso corporal ~70 kg estimado por el usuario y no medido con báscula fiable.
+2026-10-05,70,3688.37,155.33,9,1,2,3,training,Push,PPL-001,0,,Primer entrenamiento de la rutina; RIR registrados como estimaciones y no estoy seguro de su precisión; peso corporal ~70 kg estimado por el usuario y no medido con báscula fiable.
