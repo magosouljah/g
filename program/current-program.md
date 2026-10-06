@@ -1,8 +1,18 @@
 # Programa actual
 
-**Versión:** PPL-003
+**Versión:** PPL-004
 
-**Ciclo:** Push → Pull → Legs → Rest → repetir.
+## Calendario
+
+- Lunes: Push
+- Martes: Pull
+- Miércoles: Legs
+- Jueves: Push
+- Viernes: Pull
+- Sábado: Legs
+- Domingo: Rest
+
+El domingo siempre es descanso porque no puedo ir al gimnasio.
 
 ## Reglas
 
